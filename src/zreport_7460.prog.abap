@@ -13,7 +13,6 @@ start-of-selection.
   data lt_entries type standard table of ztable_7460.
   data lv_num_lines type i.
 
-
   select * from ztable_7460
     into table lt_entries.
 
